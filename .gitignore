@@ -1,0 +1,6 @@
+fvenv
+build
+dist
+Fitness_Chatbot.egg-info
+logs
+.env
